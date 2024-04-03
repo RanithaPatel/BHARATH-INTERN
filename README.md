@@ -22,6 +22,10 @@ This repository contains the completion of tasks for the Data Science internship
 1. Clone the repository: `git clone https://github.com/yourusername/data-science-internship.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
+## Usage
+- Run `sms-spam-detection.ipynb` to classify emails.
+- Open `catVSdogCNN.ipynb` in Jupyter notebook for the dog and cat classifier.
+
 ## Future Work
 - Explore advanced machine learning techniques for better classification accuracy.
 - Incorporate deep learning models for more complex tasks.
