@@ -2,11 +2,11 @@
 # Data Science Internship Project
 
 ## Overview
-This repository contains the completion of tasks for the Data Science internship conducted by Bharath Intern. The tasks include building an Email Classifier and a Dog and Cat Classifier.
+This repository contains the completion of tasks for the Data Science internship conducted by Bharath Intern. The tasks include building an SMS Classifier and a Dog and Cat Classifier.
 
 ## Tasks
 
-### Email Classifier:
+### SMS Classifier:
 - Implemented an email classifier to categorize emails into different classes.
 - Utilized machine learning techniques such as Naive Bayes or Support Vector Machines.
 - Preprocessed the dataset to remove noise and irrelevant information.
